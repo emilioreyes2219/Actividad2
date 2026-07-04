@@ -133,7 +133,7 @@ La librería fue integrada en:
 
 ## Formulario
 
-![Formulario](img/formulario.png)
+![Formulario](img/captura1.png)
 
 ---
 
