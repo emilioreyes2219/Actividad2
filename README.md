@@ -131,29 +131,13 @@ La librería fue integrada en:
 
 # Capturas de pantalla
 
-## Formulario
 
-![Formulario](img/captura1.png)
-
----
-
-## Login
-
-![Login](img/login.png)
-
----
-
-## Modal
-
-![Modal](img/modal.png)
-
----
 
 ## Consola mostrando resultados
 
-![Consola](img/consola.png)
 
----
+
+![Formulario](img/captura1.png)
 
 # Video demostrativo
 
