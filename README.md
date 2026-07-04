@@ -20,7 +20,7 @@ También incluye ejemplos de integración mediante un formulario, una ventana mo
 Para utilizar la librería solo es necesario agregar el siguiente archivo dentro de la página HTML.
 
 ```html
-<script src="Js/utileria.js"></script>
+<script src="Js/libreria.js"></script>
 ```
 
 ---
@@ -154,10 +154,10 @@ Actividad2/
 │── login.html
 │
 ├── Css/
-│     └── styles.css
+│     └── index.css
 │
 ├── Js/
-│     ├── utileria.js
+│     ├── libreria.js
 │     ├── index.js
 │     └── login.js
 │
