@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.contenedor{
+    width:90%;
+    max-width:1000px;
+    text-align:center;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+p{
+    margin-bottom:25px;
+}
+
+.tarjetas{
+    display:flex;
+    gap:20px;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+
+.tarjeta{
+    width:280px;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,.2);
+}
+
+.tarjeta h2{
+    margin-bottom:15px;
+}
+
+.tarjeta p{
+    margin-bottom:20px;
+    text-align:justify;
+}
+
+.tarjeta a{
+    display:inline-block;
+    text-decoration:none;
+    background:#007bff;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+}
+
+.tarjeta a:hover{
+    background:#0056b3;
+}
