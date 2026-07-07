@@ -163,7 +163,17 @@ Actividad2/
 │
 └── img/
 ```
+# Utileria
 
+Librería de utilidades en JavaScript.
+
+## 🚀 Uso desde CDN
+
+Puedes incluir la librería directamente en tu proyecto con jsDelivr:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/emilioreyes2219/Utileria@v1.0.0/js/libreria.js"></script>
+```
 ---
 
 # Autor
